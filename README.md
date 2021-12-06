@@ -4,7 +4,7 @@ Custom Plug & Play Linux-Based USB stick Image for Raptoreum Mining on dedicated
 ## System Requirements
 * 64-bit x86 CPU (ARM is not supported)
 * UEFI Motherboard Firmware
-* Ethernet with DHCP
+* Ethernet with DHCP (WiFi is not supported)
 * 6GB or larger drive as boot device for mining rig (**All contents of this drive WILL be erased**)
 
 ## How to use
