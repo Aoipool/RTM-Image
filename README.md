@@ -1,11 +1,11 @@
-# RTM_Mining_Image_for_USB
+# RTM Mining Image for USB
 Custom Plug & Play Linux-Based USB stick Image for Raptoreum Mining on dedicated CPU Rigs
 
 ## System Requirements
 * 64-bit x86 CPU (ARM is not supported)
 * UEFI Motherboard Firmware
 * Ethernet with DHCP
-* 6GB Storage Space on the drive you intend to use
+* 6GB or larger drive (**All contents of this drive WILL be erased**)
 
 ## How to use
 1. Download the newest image
