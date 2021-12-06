@@ -13,8 +13,8 @@ Custom Plug & Play Linux-Based USB stick Image for Raptoreum Mining on dedicated
     * Etcher：https://www.balena.io/etcher/
     * Rufus：https://rufus.ie/
 3. If you don't see a CONFIG partition then unplug and plug the drive back in
-4. edit wallet.txt so that it contains your wallet address
-5. edit worker.txt so that it contains your worker name
+4. Put your wallet address in wallet.txt
+5. Put your rig name into worker.txt
 6. Save, eject and remove the drive
 7. Plug in the drive on your mining rig, plug in Ethernet, power and turn it on
 8. Choose UEFI OS or UEFI Partition 1 on the drive as your boot device
