@@ -1,4 +1,4 @@
-# RTM-Mining-Image-for-USB
+# RTM_Mining_Image_for_USB
 Custom Plug & Play Linux-Based USB stick Image for Raptoreum Mining on dedicated CPU Rigs
 
 ## System Requirements
