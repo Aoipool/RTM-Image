@@ -5,11 +5,11 @@ Custom Plug & Play Linux-Based USB stick Image for Raptoreum Mining on dedicated
 * 64-bit x86 CPU (ARM is not supported)
 * UEFI Motherboard Firmware
 * Ethernet with DHCP
-* 6GB or larger drive (**All contents of this drive WILL be erased**)
+* 6GB or larger drive as boot device for mining rig (**All contents of this drive WILL be erased**)
 
 ## How to use
 1. Download the newest image
-2. Flash it onto a storage device using Etcher or Rufus or any other tool you like:
+2. Flash it onto a drive using Etcher or Rufus or any other tool you like:
     * Etcher：https://www.balena.io/etcher/
     * Rufus：https://rufus.ie/
 3. If you don't see a CONFIG partition then unplug and plug the drive back in
