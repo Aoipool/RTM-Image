@@ -17,7 +17,7 @@ Custom Plug & Play Linux-Based USB stick Image for Raptoreum Mining on dedicated
 5. Put your rig name into worker.txt
 6. Save, eject and remove the drive
 7. Plug in the drive on your mining rig, plug in Ethernet,plug in power cable and turn it on
-8. Choose UEFI OS or UEFI Partition 1 or ubuntu on the drive as your boot device
+8. Choose UEFI OS or UEFI Partition 1 or ubuntu on the drive as your boot device in your motherboard BIOS
     * Common boot menu shortcuts: ASUS > F8, Gigabyte > F12, MSI and Asrock > F11
 9. If all things go well then you should be able to see your rig pop up on https://aoipool.net in your dashboard.
 
