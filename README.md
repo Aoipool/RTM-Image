@@ -1,5 +1,5 @@
 # RTM-Image
-Custom Plug & Play Linux-Based Image for Raptoreum Mining on dedicated CPU Rigs
+Custom Plug & Play Linux-Based USB Image for Raptoreum Mining on dedicated CPU Rigs
 
 ## System Requirements
 * 64-bit x86 CPU (ARM is not supported)
