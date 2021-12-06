@@ -16,8 +16,8 @@ Custom Plug & Play Linux-Based USB stick Image for Raptoreum Mining on dedicated
 4. Put your wallet address in wallet.txt
 5. Put your rig name into worker.txt
 6. Save, eject and remove the drive
-7. Plug in the drive on your mining rig, plug in Ethernet, power and turn it on
-8. Choose UEFI OS or UEFI Partition 1 on the drive as your boot device
+7. Plug in the drive on your mining rig, plug in Ethernet,plug in power cable and turn it on
+8. Choose UEFI OS or UEFI Partition 1 or ubuntu on the drive as your boot device
 9. If all things go well then you should be able to see your rig pop up on https://aoipool.net in your dashboard.
 
 ## Instructions for moving the drive to another rig
