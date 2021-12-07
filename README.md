@@ -24,6 +24,11 @@ Custom Plug & Play Linux-Based USB stick Image for Raptoreum Mining on dedicated
 Create a file `reset.txt` in the CONFIG partition before booting up on a new system to reset thread config.
 Moving directly to another rig without resetting may result in suboptimal hashrate.
 
+## Login and Password
+login: root
+password: 12345678
+Feel free to poke around, you can simply reflash the image if you manage to break something
+
 ## Support
 * Discord：https://discord.gg/fdQ6fNx2yc
 
