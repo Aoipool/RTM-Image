@@ -25,8 +25,9 @@ Create a file `reset.txt` in the CONFIG partition before booting up on a new sys
 Moving directly to another rig without resetting may result in suboptimal hashrate.
 
 ## Login and Password
-login: root
-password: 12345678
+* login: root
+* password: 12345678
+
 Feel free to poke around, you can simply reflash the image if you manage to break something
 
 ## Support
